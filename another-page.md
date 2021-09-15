@@ -6,6 +6,6 @@ description: This is just another page
 
 ## Welcome to another page
 
--留待以后更新
+- 留待以后更新
 
 [返回](./)
