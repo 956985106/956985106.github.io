@@ -1,10 +1,11 @@
 ---
 layout: default
-title: 我的主页
-description: 这是主页
+title: 欢迎访问林下疏影的博客
+description: 欢迎访问林下疏影的博客
 ---
 
 ## 欢迎访问林下疏影的博客
+
 
 - [Link to another page](./another-page.html).
 - [关于我](./about.html).
